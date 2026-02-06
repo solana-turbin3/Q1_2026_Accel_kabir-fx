@@ -1,3 +1,6 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/kabir-fx/whitelist-transfer-hook.git
+[submodule "escrow-litesvm"]
+	path = escrow-litesvm
+	url = https://github.com/kabir-fx/escrow-litesvm.git
