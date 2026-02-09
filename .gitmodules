@@ -4,3 +4,6 @@
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = https://github.com/kabir-fx/escrow-litesvm.git
+[submodule "transfer_enabled_vault"]
+	path = transfer_enabled_vault
+	url = https://github.com/kabir-fx/transfer_enabled_vault.git
