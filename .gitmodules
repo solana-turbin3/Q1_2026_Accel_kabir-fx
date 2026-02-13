@@ -7,3 +7,6 @@
 [submodule "transfer_enabled_vault"]
 	path = transfer_enabled_vault
 	url = https://github.com/kabir-fx/transfer_enabled_vault.git
+[submodule "magicblock-er-example"]
+	path = magicblock-er-example
+	url = https://github.com/kabir-fx/magicblock-er-example.git
