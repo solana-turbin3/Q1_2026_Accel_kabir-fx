@@ -13,3 +13,6 @@
 [submodule "Serealization-enabled-storage"]
 	path = Serealization-enabled-storage
 	url = https://github.com/kabir-fx/Serealization-enabled-storage.git
+[submodule "accel-week2-challenge"]
+	path = accel-week2-challenge
+	url = https://github.com/kabir-fx/accel-week2-challenge.git
