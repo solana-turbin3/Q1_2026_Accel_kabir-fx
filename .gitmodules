@@ -13,3 +13,6 @@
 [submodule "accel-week2-challenge"]
 	path = accel-week2-challenge
 	url = https://github.com/kabir-fx/accel-week2-challenge.git
+[submodule "transfer_enabled_vault"]
+	path = transfer_enabled_vault
+	url = https://github.com/kabir-fx/transfer_enabled_vault.git
